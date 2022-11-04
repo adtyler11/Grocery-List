@@ -1,0 +1,46 @@
+#mainListDiv {
+    float: left;
+}
+
+#secondListDiv {
+    float: right;
+}
+
+#listHolderDiv {
+    margin-left: 4in;
+    margin-right: 4in;
+
+}
+
+button{
+    font-size: 15px;
+}
+
+
+/* function num(a, b) {
+  let num = Number(prompt(`What is ${a} + ${b}`))
+   if (Number(num === a + b)) {
+    console.log("Correct you get 10 points");
+    return(10)
+  }
+     if (num === "skip" || "SKIP" || "Skip"){
+    console.log("No problem, moving on:");
+    return(0)
+  }
+  else {
+    console.log("Incorrect you lose five points");
+    return(-5)
+  }
+}
+let score= 0
+score =(score + num(1, 1))
+score =(score + num(2, 2));
+score = (score + num(3, 5));
+score = (score + num(7, 7));
+score = (score + num(9, 9));
+score = (score + num(20, 2));
+score = (score + num(11, 11));
+score = (score + num(12, 13));
+score = (score + num(10, 10));
+score = (score + num(8, 11));
+score = (score + num(16, 4)); */
